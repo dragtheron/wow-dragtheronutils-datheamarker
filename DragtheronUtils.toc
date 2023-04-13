@@ -1,0 +1,11 @@
+## Interface: 100007
+## Title: Dathea Marker (Dragtheron Utils)
+## Author: Dragtheron
+## Version: 1.0.0
+
+## X-License: MIT
+## X-Website: https://git.tsno.de/dragtheron/wow-dragtheronutils-datheamarker
+
+## X-Curse-Project-ID: 850139
+
+DatheaMarker.lua

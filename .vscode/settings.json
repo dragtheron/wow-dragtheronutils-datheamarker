@@ -1,0 +1,10 @@
+{
+  "Lua.diagnostics.globals": [
+    "CreateFrame",
+    "IsShiftKeyDown",
+    "IsAltKeyDown",
+    "UnitGUID",
+    "strsplit",
+    "SetRaidTarget"
+  ]
+}

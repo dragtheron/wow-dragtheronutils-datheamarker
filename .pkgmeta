@@ -1,0 +1,10 @@
+package-as: DragtheronUtils_DatheaMarker
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - .vscode
+
+license-output: LICENSE
